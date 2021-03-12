@@ -1,11 +1,10 @@
 ---
-title: "CSS Boxsizing"
-date: 2016-04-11T17:19:43+08:00
+title: box-sizing属性
+date:  2016-04-05T10:39:39+08:00
 draft: false
-tags: ["CSS"]
+tags: ["H5"]
 categories: ["前端"]
 ---
-
 > 这个属性只有两个值，分别是border-box,content-box;
 <!--more-->
 ##  属性值的介绍
